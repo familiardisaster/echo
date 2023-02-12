@@ -1,0 +1,16 @@
+https://forums.att.com/
+https://forums.att.com/akam-sw-policy.json
+https://forums.att.com/akam-sw.js
+https://forums.att.com/
+https://forums.att.com/akam-sw-policy.json
+https://forums.att.com/favicon.ico
+https://forums.att.com/akam-sw.js
+https://oidc.idp.elogin.att.com/lrrnew/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DFcLyEXFvBS%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fusersvcs%252Fcspsaml%252F%253Fservice%253Dspotgroup%2526servicetype%253Dprod%26response_type%3Did_token%26state%3DYSBlPrl7Jv%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0
+https://oidc.idp.elogin.att.com/lrrnew/attLRR/resources/js/utilities.js?v20220801202052
+https://oidc.idp.elogin.att.com/lrrnew/attLRR/resources/static/styles/fonts.css?v20220801202052
+https://oidc.idp.elogin.att.com/lrrnew/attLRR/resources/static/styles/checkbox.css?v20220801202052
+https://www.or-medicaid.gov/ProdPortal/DesktopModules/iC_Portal_Public_ClientLinks/redirect.aspx?URL=https://www.oregon.gov/OHA/HSD/AMH
+https://forums.att.com/akam-sw.js
+https://forums.att.com/
+https://forums.att.com/akam-sw-policy.json
+https://forums.att.com/favicon.ico
